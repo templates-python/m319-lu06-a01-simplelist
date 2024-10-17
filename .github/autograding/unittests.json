@@ -1,7 +1,7 @@
 [
   {
-    "name": "Lists",
-    "function": "Lists",
+    "name": "test_list",
+    "function": "test_list",
     "timeout": 10,
     "points": 2
   }
