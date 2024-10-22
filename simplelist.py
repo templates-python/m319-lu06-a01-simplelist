@@ -1,5 +1,5 @@
 def main():
-    # write your program logic here and remove the line "pass"
+    # write your program logic here
     fruits = []
     
     return fruits 
